@@ -359,7 +359,7 @@ float IDAMAX()
         x[i] = v;
     }
 
-    //Claculating the absolute values .
+    //Calculating the absolute values .
     for(i = 0;i < 3;i++)
     {        
        y[i] = abs(x[i]);
